@@ -1,7 +1,7 @@
-## Making (helical) gear cutters and gears using the button method.
-A video, 3D design and excel calculation sheet for making (helical) gear cutters and gears on the mill and on the lathe using the button method.
+## Making gear cutters and (helical) gears using the button method.
+A video, 3D design and excel calculation sheet for making gear cutters and (helical) gears on the mill and on the lathe using the button method.
 ### Video:
-A [YouTube video](https://youtu.be/ImloYwHc-BY) that shows how to make (helical) gear cutters and gears on the mill and on the lathe.
+A [YouTube video](https://youtu.be/ImloYwHc-BY) that shows how to make gear cutters and (helical) gears on the mill and on the lathe.
 ### Calculations:
 In the [calculation](https://github.com/MetalWorkerTools/GearCutting) folder there is an excel sheet for the calculations.
 ### 3D design:
