@@ -3,7 +3,7 @@ A video, 3D design and excel calculation sheet for making gear cutters and (heli
 ### Video:
 A [YouTube video](https://youtu.be/ImloYwHc-BY) that shows how to make gear cutters and (helical) gears on the mill and on the lathe.
 ### Calculations:
-In the [calculation](https://github.com/MetalWorkerTools/GearCutting) folder there is an excel sheet for the calculations.
+In the [calculations](https://github.com/MetalWorkerTools/GearCutting) folder there is an excel sheet for the calculations.
 ### 3D design:
 In the [3D design](https://github.com/MetalWorkerTools/GearCutting/tree/main/3D%20design) folder there is the FreeCad CAD file. In this file you find the design of the fly cutter and end mill style cutter.
 ### 3D print:
